@@ -5,12 +5,13 @@
   * [Background](#user-content-background)
   * [Now](#user-content-now)
   * [The List](#user-content-the-list)
-    * [Browser/Email Testing](#user-content-browseremail-testing)
+    * [Testing](#user-content-testing)
+      * [Browser/Email Testing](#user-content-browseremail-testing)
+      * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
     * [Bug/Issue Tracking](#user-content-bugissue-tracking)
     * [Planning & Project Management](#user-content-planning--project-management)
     * [App Developer Tools](#user-content-app-developer-tools)
     * [Business & Traffic Analytics](#user-content-business--traffic-analytics)
-    * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
     * [User Analytics](#user-content-user-analytics)
     * [User Testing](#user-content-user-testing)
     * [HR](#user-content-hr)
@@ -110,13 +111,20 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 ## The List
 
+### Testing
 #### Browser/Email Testing
 Name|Description|Cost
 :---:|---|---
 [BrowserStack](http://www.browserstack.com) | Live, Web-Based Browser Testing. Instant access to all desktop and mobile browsers. | $35/mo - $359/mo 
+[EmailOnAcid](http://www.emailonacid.com) [@emailonacid](https://twitter.com/EmailonAcid)| Quickly ensure that your emails don't look like crap in any email client. Email previews on 70+ clients and spam testing | $45/mo - $295/mo 
 [Litmus](http://litmus.com) [@litmusapp](https://twitter.com/litmusapp)| Test and track your emails. Lets you preview your campaigns across 30+ real email clients and devices in minutes. | $79/mo - $399/mo 
 [Sauce Labs](https://saucelabs.com/) [@saucelabs](https://twitter.com/saucelabs)| Testing made awesome. Run you web and mobile app tests across hundreds | $12/mo - $149/mo 
-[EmailOnAcid](http://www.emailonacid.com) [@emailonacid](https://twitter.com/EmailonAcid)| Quickly ensure that your emails don't look like crap in any email client. Email previews on 70+ clients and spam testing | $45/mo - $295/mo 
+
+#### Conversion Optimization & A/B Testing 
+Name|Description|Cost
+:---:|---|---
+[Optimizely](https://www.optimizely.com/) [@optimizely](https://twitter.com/optimizely)| A/B testing you'll actually use. Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest. | $17/mo - $359/mo 
+[Visual Website Optimizer](http://visualwebsiteoptimizer.com/) [@wingify](http://twitter.com/wingify) | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. | $49/mo - $129/mo
 
 #### Bug/Issue Tracking
 * BugHerd | http://bugherd.com | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. | BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop.
@@ -172,10 +180,6 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Chartbeat | https://chartbeat.com/ | [@chartbeat](http://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. | Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters.
 * Calq | https://calq.io | [@CalqAnalytics](http://www.twitter.com/CalqAnalytics) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. | Calq is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Calq's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms.
 * Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
-
-#### Conversion Optimization & A/B Testing 
-* Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
-* Visual Website Optimizer | http://visualwebsiteoptimizer.com/ | [@wingify](http://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions | Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources.
 
 #### User Analytics
 * Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and how,
